@@ -1,0 +1,24 @@
+.header{
+    border-bottom: 1px solid #906f70;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:20px 50px;
+
+    ul{
+      align-items: center;
+    }
+    
+    li {
+      align-items: center;
+    }
+
+    .link {
+      text-decoration: none;
+    }
+
+    h3,p{
+      margin: 0;
+      
+    }
+}

@@ -1,0 +1,24 @@
+.hero {
+  padding: 50px;
+  margin-left: 10px;
+  div {
+    background-color: #F4EFE9;
+    border-radius: 20px;
+    width: 960px;
+    height: 336px;
+  }
+
+  img {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+
+  h2 {
+    margin-top: 150px;
+  }
+  button {
+    border-radius: 110px;
+    font-size: 14px;
+    margin-left: 100px;
+  }
+}
